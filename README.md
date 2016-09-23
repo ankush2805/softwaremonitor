@@ -16,6 +16,8 @@ Display will render all events happening in process on time scale
 For Example - User Actions, Success Failures, Crashes, Warnings
             - Ideally events are just regular expression and assigned ( user can configure which UI element to display)
             - See mock-up folder.
+            
+How we will hook into the software. Crashes we can monitor, but other warnings and actions How will we findout?
 
 Possible User Interactions
 - Open the location for input (i.e. logs folder)
